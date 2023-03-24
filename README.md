@@ -9,28 +9,23 @@
     <li>SCSS</li>
     <li>JAVASCRİPT</li>
     <li>CSS3</li>
-
-
   </ul>
 
   <h2>Features</h2>
 
   <ul>
-    <li>Fully responsive design: The website layout is optimized for viewing on devices of different sizes, ensuring that all visitors have an optimal viewing experience.</li>
+    <li>Fully responsive design: The website layout is optimized for viewing on devices of different sizes, ensuring that all visitors have an optimal viewing      experience.</li>
     <li>Interactive navigation menu: The website includes a navigation menu that allows users to easily navigate between pages.</li>
     <li>Product showcase: The website includes a section showcasing featured products, with the option to view more products in a separate products page.</li>
     <li>Contact form: The website includes a contact form that allows users to submit inquiries or feedback directly to the website owner.</li>
   </ul>
-
-  <h2>Usage</h2>
-
-  <p>To view the website, simply open the <code>index.html</code> file in a web browser. You can also view the website online at <a href="https://yourwebsite.com">https://yourwebsite.com</a>.</p>
   
   <h2>Gif<h2>
   
  <img src="https://github.com/Hasan-Arslan2779/Online-Education-Website/blob/master/gif%20(2).gif" alt="">
+  
+  <hr>
+  
   <h2>Credits</h2>
-
-
-
+  
   <p>This project was created by Hasan, based on a design by Hasan Arslan.</p>
