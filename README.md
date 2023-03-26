@@ -1,6 +1,6 @@
 # Online-Education-Website
 
-  <p>This is a sample project for a shoe website design created using HTML5,CSS3 and JAVASCRİPT. The design is fully responsive, meaning it can adapt to different screen sizes for optimal viewing experience, including desktops, tablets, and smartphones.</p>
+  <p>This is a sample project for a shoe website design created using HTML5,CSS3,SCSS AND JAVASCRİPT. The design is fully responsive, meaning it can adapt to different screen sizes for optimal viewing experience, including desktops, tablets, and smartphones.</p>
 
   <h2>Technologies Used</h2>
 
